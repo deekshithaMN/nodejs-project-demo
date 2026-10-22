@@ -1,0 +1,303 @@
+{
+  "posts": [
+    {
+      "post_id": "post001",
+      "profile_image": "https://picsum.photos/seed/profile1/50/50",
+      "image_url": "https://picsum.photos/seed/post1/400/300",
+      "caption": "Morning motivation ☀️ #StartFresh",
+      "likes": 210,
+      "comments": 18,
+      "timestamp": "2026-04-27T08:00:00"
+    },
+    {
+      "post_id": "post002",
+      "profile_image": "https://picsum.photos/seed/profile2/50/50",
+      "image_url": "https://picsum.photos/seed/post2/400/300",
+      "caption": "Coding life 💻 #Developer",
+      "likes": 340,
+      "comments": 25,
+      "timestamp": "2026-04-26T18:30:00"
+    },
+    {
+      "post_id": "post003",
+      "profile_image": "https://picsum.photos/seed/profile3/50/50",
+      "image_url": "https://picsum.photos/seed/post3/400/300",
+      "caption": "AI is changing the world 🤖",
+      "likes": 500,
+      "comments": 40,
+      "timestamp": "2026-04-25T14:20:00"
+    },
+    {
+      "post_id": "post004",
+      "profile_image": "https://picsum.photos/seed/profile4/50/50",
+      "image_url": "https://picsum.photos/seed/post4/400/300",
+      "caption": "Weekend vibes 😎",
+      "likes": 275,
+      "comments": 22,
+      "timestamp": "2026-04-24T12:00:00"
+    },
+    {
+      "post_id": "post005",
+      "profile_image": "https://picsum.photos/seed/profile5/50/50",
+      "image_url": "https://image.shutterstock.com/image-vector/success-achievement-vector-image-person-260nw-1889022454.jpg",
+      "caption": "Learning React step by step 🚀",
+      "likes": 420,
+      "comments": 30,
+      "timestamp": "2026-04-23T10:15:00"
+    },
+    {
+      "post_id": "post006",
+      "profile_image": "https://picsum.photos/seed/profile6/50/50",
+      "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/6wHbbvJKIdPePaln83U1mw/348s.jpg",
+      "caption": "Coffee + Code ☕💻",
+      "likes": 310,
+      "comments": 20,
+      "timestamp": "2026-04-22T09:45:00"
+    },
+    {
+      "post_id": "post007",
+      "profile_image": "https://picsum.photos/seed/profile7/50/50",
+      "image_url": "https://picsum.photos/seed/post7/400/300",
+      "caption": "Never stop learning 📚",
+      "likes": 390,
+      "comments": 28,
+      "timestamp": "2026-04-21T17:30:00"
+    },
+    {
+      "post_id": "post008",
+      "profile_image": "https://picsum.photos/seed/profile8/50/50",
+      "image_url": "https://picsum.photos/seed/post8/400/300",
+      "caption": "Debugging mode ON 🐞",
+      "likes": 260,
+      "comments": 19,
+      "timestamp": "2026-04-20T16:10:00"
+    },
+    {
+      "post_id": "post009",
+      "profile_image": "https://picsum.photos/seed/profile9/50/50",
+      "image_url": "https://picsum.photos/seed/post9/400/300",
+      "caption": "Fitness first 💪",
+      "likes": 450,
+      "comments": 35,
+      "timestamp": "2026-04-19T07:50:00"
+    },
+    {
+      "post_id": "post010",
+      "profile_image": "https://picsum.photos/seed/profile10/50/50",
+      "image_url": "https://picsum.photos/seed/post10/400/300",
+      "caption": "Nature love 🌿",
+      "likes": 380,
+      "comments": 27,
+      "timestamp": "2026-04-18T06:30:00"
+    },
+    {
+      "post_id": "post011",
+      "profile_image": "https://picsum.photos/seed/profile11/50/50",
+      "image_url": "https://picsum.photos/seed/post11/400/300",
+      "caption": "Late night coding 🌙",
+      "likes": 410,
+      "comments": 33,
+      "timestamp": "2026-04-17T23:15:00"
+    },
+    {
+      "post_id": "post012",
+      "profile_image": "https://picsum.photos/seed/profile12/50/50",
+      "image_url": "https://picsum.photos/seed/post12/400/300",
+      "caption": "Success is a journey ✨",
+      "likes": 470,
+      "comments": 38,
+      "timestamp": "2026-04-16T11:25:00"
+    },
+    {
+      "post_id": "post013",
+      "profile_image": "https://picsum.photos/seed/profile13/50/50",
+      "image_url": "https://picsum.photos/seed/post13/400/300",
+      "caption": "Stay positive 😊",
+      "likes": 300,
+      "comments": 21,
+      "timestamp": "2026-04-15T13:40:00"
+    },
+    {
+      "post_id": "post014",
+      "profile_image": "https://picsum.photos/seed/profile14/50/50",
+      "image_url": "https://picsum.photos/seed/post14/400/300",
+      "caption": "Tech world 🌐",
+      "likes": 520,
+      "comments": 45,
+      "timestamp": "2026-04-14T15:00:00"
+    },
+    {
+      "post_id": "post015",
+      "profile_image": "https://picsum.photos/seed/profile15/50/50",
+      "image_url": "https://picsum.photos/seed/post15/400/300",
+      "caption": "Dream big 💡",
+      "likes": 600,
+      "comments": 50,
+      "timestamp": "2026-04-13T19:20:00"
+    }
+  ],
+  "profile":{
+    "id":101,
+    "username":"jhon",
+    "image_url": "https://picsum.photos/seed/post14/400/300"
+  },
+  "suggestions":[
+    {"id":201,
+    "username":"Singh",
+    "profile_image":"https://picsum.photos/seed/profile2/50/50"
+    },
+    {"id":202,
+    "username":"jhon",
+    "profile_image":"https://picsum.photos/seed/profile3/50/50"
+    },
+    {"id":203,
+    "username":"Raj",
+    "profile_image":"https://picsum.photos/seed/profile9/50/50"
+    }
+  ],
+  "story": [
+    {
+      "id": "post001",
+      "profile_image": "https://picsum.photos/seed/profile1/50/50",
+      "image_url": "https://tse2.mm.bing.net/th/id/OIP.WhgVPlvLxTJsofTf8ljT5AHaEo?w=261&h=180&c=7&r=0&o=7&pid=1.7&rm=3",
+      "username":"Deeksha"
+    },
+    {
+      "id": "post002",
+      "profile_image": "https://picsum.photos/seed/profile2/50/50",
+      "image_url": "https://tse1.mm.bing.net/th/id/OIP.WX4txSWr1bxKBJHOSDiSiwHaE7?w=247&h=180&c=7&r=0&o=7&pid=1.7&rm=3",
+      "username":"varsha"
+    },
+    {
+      "id": "post003",
+      "profile_image": "https://picsum.photos/seed/profile3/50/50",
+      "image_url": "https://tse1.mm.bing.net/th/id/OIP.cm8W7HDVsi62PM5dceWJxwHaEt?w=269&h=180&c=7&r=0&o=7&pid=1.7&rm=3",
+      "username":"bhavni"
+    },
+    {
+      "id": "post004",
+      "profile_image": "https://picsum.photos/seed/profile4/50/50",
+      "image_url": "https://picsum.photos/seed/post4/400/300",
+      "username":"koushi"
+    },
+    {
+      "id": "post005",
+      "profile_image": "https://picsum.photos/seed/profile5/50/50",
+      "image_url": "https://picsum.photos/seed/post5/400/300",
+      "username":"Dushyanth"
+    },
+    {
+      "id": "post006",
+      "profile_image": "https://picsum.photos/seed/profile6/50/50",
+      "image_url": "https://picsum.photos/seed/post6/400/300",
+      "username":"Nagu"
+    },
+    {
+      "id": "post007",
+      "profile_image": "https://picsum.photos/seed/profile7/50/50",
+      "image_url": "https://picsum.photos/seed/post7/400/300",
+      "username":"Darshan"
+    },
+    {
+      "id": "post008",
+      "profile_image": "https://picsum.photos/seed/profile8/50/50",
+      "image_url": "https://picsum.photos/seed/post8/400/300",
+      "username":"Swara"
+    },
+    {
+      "id": "post009",
+      "profile_image": "https://picsum.photos/seed/profile9/50/50",
+      "image_url": "https://picsum.photos/seed/post9/400/300",
+      "username":"poorvi"
+    },
+    {
+      "id": "post010",
+      "profile_image": "https://picsum.photos/seed/profile10/50/50",
+      "image_url": "https://picsum.photos/seed/post10/400/300",
+      "username":"satya"
+    }
+  ],
+  "messages": [
+    {
+      "id":  "post010",
+      "username": "Rahul",
+      "message": "Hello",
+      "profile_image": "https://i.pravatar.cc/100?img=1"
+    },
+    {
+      "id":  "post009",
+      "username": "Priya",
+      "message": "How are you?",
+      "profile_image": "https://i.pravatar.cc/100?img=2"
+    },
+    {
+      "id":  "post006",
+      "username": "Nagu",
+      "message": "How are you?",
+      "profile_image": "https://i.pravatar.cc/100?img=2"
+    },
+    {
+      "id":  "post004",
+      "username": "Nagaraju",
+      "message": "How are you?",
+      "profile_image": "https://i.pravatar.cc/100?img=2"
+    }
+  ],
+  
+  "notifications": 
+  [
+    {
+      "id": 1,
+      "title": "New Message",
+      "message": "John sent you a message",
+      "time": "2 mins ago",
+      "image_url": "https://i.pravatar.cc/150?img=1"
+    },
+    {
+      "id": 2,
+      "title": "Friend Request",
+      "message": "Alex sent you a friend request",
+      "time": "10 mins ago",
+      "image_url": "https://i.pravatar.cc/150?img=2"
+    }
+  ],
+  
+  "explore": [
+    {
+      "id": 1,
+      "title": "Nature",
+      "description": "Beautiful mountain view",
+      "image": "https://picsum.photos/400/300?1"
+    },
+    {
+      "id": 2,
+      "title": "City",
+      "description": "Night city lights",
+      "image": "https://picsum.photos/400/300?2"
+    },
+    {
+      "id": 3,
+      "title": "Beach",
+      "description": "Relaxing beach sunset",
+      "image": "https://picsum.photos/400/300?3"
+    }
+  ],
+  "reels": [
+    {
+      "id": 1,
+      "username": "Rahul",
+      "caption": "Nature Reel",
+      "video_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+    },
+    {
+      "id": 2,
+      "username": "Priya",
+      "caption": "Travel Reel",
+      "video_url": "https://www.w3schools.com/html/movie.mp4"
+    }
+  ]
+
+
+
+}
+

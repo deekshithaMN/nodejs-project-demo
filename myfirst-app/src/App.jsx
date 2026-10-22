@@ -1,0 +1,18 @@
+import React from 'react'
+import './index.css'
+import Sidebar from './Sidebar'
+import Feed from './Feed'
+import Suggestions from './Suggestions'
+
+
+function App() {
+  return (
+    <div className="d-flex">
+      <div className='w20'><Sidebar/></div>
+      <div className='w-50'><Feed/></div>
+      <div className='w30'><Suggestions/></div>
+    </div>
+  )
+}
+
+export default App
